@@ -1,30 +1,32 @@
-# T5
+# Title
 
-  ![GitHub license](https://img.shields.io/badge/license-BSD 3-Clause-blue.svg)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
   ## Description
-  des
+  Description
 
   ## Table of contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
   - [License](#license)
+  - [Questions](#questions)
 
   ## Installation
-  install
+  Installation info
 
   ## Usage
-  usage info
+  Usage info
 
   ## Contributing
-  contribution
+  Contribution guidelines
 
   ## Tests
-  test info
+  Test info
 
   ## License
-  This project is licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause) license.
+  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Questions
   GitHub: [GitHub Profile](https://github.com/AshB88)
