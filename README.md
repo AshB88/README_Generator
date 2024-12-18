@@ -20,7 +20,7 @@
   Usage info
 
   ## Contributing
-  Contribution guide
+  Contribution info
 
   ## Tests
   Test info
@@ -29,5 +29,5 @@
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Questions
-  GitHub: [GitHub Profile](https://github.com/AshB88)
+  GitHub: [GitHub Profile](https://github.com/AshB88) 
   Please email me at fake_email@notreal.com if you have any questions.
