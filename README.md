@@ -29,5 +29,5 @@
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Questions
-  GitHub: [GitHub Profile](https://github.com/AshB88) 
-  Please email me at fake_email@notreal.com if you have any questions.
+  GitHub: [GitHub Profile](https://github.com/AshB88)  
+  Please email me at fake_email@notarealemail.com if you have any questions.
