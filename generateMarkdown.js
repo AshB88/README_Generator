@@ -4,7 +4,27 @@ function renderLicenseBadge(license) {
   if (license === 'None' || !license) {
     return '';
   }
-  return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
+  
+  let licenseBadge = '';
+
+  switch (license) {
+    case 'MIT':
+      licenseBadge = '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
+      break;
+    case 'GPLv3':
+      licenseBadge = '![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)';
+      break;
+    case 'Apache 2.0':
+      licenseBadge = '![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
+      break;
+    case 'BSD 3-Clause':
+      licenseBadge = '![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)';
+      break;
+    default:
+      licenseBadge = '';
+      break;
+  }
+  return `[${licenseBadge}]`;
 }
 
 // TODO: Create a function that returns the license link
@@ -33,7 +53,7 @@ function renderLicenseLink(license) {
       licenseLink = '';
       break;
   }
-  return `[${license} License](${licenseLink})`;
+  return `[${license}](${licenseLink})`;
 }
 
 // TODO: Create a function that returns the license section of README
@@ -57,8 +77,10 @@ function generateMarkdown(data) {
   ## Table of contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
   - [License](#license)
+  - [Questions](#questions)
 
   ## Installation
   ${data.installation}
