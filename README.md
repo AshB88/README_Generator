@@ -1,6 +1,6 @@
 # Title
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   Description
@@ -14,13 +14,13 @@
   - [Questions](#questions)
 
   ## Installation
-  Installation info
+  Install info
 
   ## Usage
   Usage info
 
   ## Contributing
-  Contribution guidelines
+  Contribution guide
 
   ## Tests
   Test info
