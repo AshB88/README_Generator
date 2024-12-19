@@ -48,9 +48,9 @@
 
   2. **Answer prompts**:
 
-   In the command line, you will be prompted to answer a series of questions. You can provide the required information by typing your responses and pressing the enter key. When selecting a license, use the arrow keys to navigate and choose your preferred option.
-
-  After the promts are all answered the application will generate your README file, which you can then copy and paste into your own project repository.
+    In the command line, you will be prompted to answer a series of questions. You can provide the required   information by typing your responses and pressing the enter key. When selecting a license, use the arrow  keys to navigate and choose your preferred option.
+    
+    After the promts are all answered the application will generate your README file, which you can then copy and paste into your own project repository.
 
   **Walkthrough**:  
   A demonstration of the application in use can be found [here](https://drive.google.com/file/d/1VidoVvUWo0CqDY8K-oPlqUbREUsJPnwq/view?usp=drive_link).
