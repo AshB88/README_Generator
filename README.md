@@ -39,23 +39,23 @@
 
   ## Usage
   
-  1. **Run the application**
+  1. **Run the application**:
 
     ```bash
     node index.js
     ```
     This will start the command-line application and prompt you to enter the necessary information to generate the README file.
 
-  2. **Answer prompts**
+  2. **Answer prompts**:
 
    In the command line, you will be prompted to answer a series of questions. You can provide the required information by typing your responses and pressing the enter key. When selecting a license, use the arrow keys to navigate and choose your preferred option.
 
   After the promts are all answered the application will generate your README file, which you can then copy and paste into your own project repository.
 
-  **Walkthrough**
+  **Walkthrough**:  
   A demonstration of the application in use can be found [here](https://drive.google.com/file/d/1VidoVvUWo0CqDY8K-oPlqUbREUsJPnwq/view?usp=drive_link).
 
-  **Sample README**
+  **Sample README**:  
   A sample README file created using this application can be found [here](./sample/README.md).
 
   ## Contributing
